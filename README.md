@@ -1,5 +1,3 @@
-# ai-memory-game-js
-Memory Matching Cards Game, Version: 2.0
 
 Simple artificial intelligence memory game where a user competes against 
 an intelligent agent to find pairs of images. The agent and the user don't
