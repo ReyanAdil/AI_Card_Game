@@ -1,3 +1,6 @@
+*****Run the index.html file using Google Chrome(Safari doesn’t work so well)*****
+
+
 
 Simple artificial intelligence memory game where a user competes against 
 an intelligent agent to find pairs of images. The agent and the user don't
